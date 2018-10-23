@@ -8,7 +8,7 @@ This is a blog i've created using a Python and Django tutorial on https://tutori
 
 * Next you need to make a **virtual environment**, so create a folder within the djangogirls directory using the **terminal**. `python3 -m venv myvenv`
 
-You can then start the virtual environment by typing 
+  You can then start the virtual environment by typing 
 `source myvenv/bin/activate`
 
 * Install **Django** (make sure you have the latest version of **pip**) 
